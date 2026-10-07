@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/__GH_OWNER__/gitattributes/internal/difftest"
+	"github.com/quietpelican42/gitattributes/internal/difftest"
 )
 
 // TestFixture replays answers recorded from git check-attr by cmd/genfixture.

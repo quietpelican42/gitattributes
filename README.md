@@ -50,7 +50,7 @@ The precedence problem is in go-git's `matcher.go`, not in how it was called. Th
 ## Installation
 
 ```sh
-go get github.com/__GH_OWNER__/gitattributes
+go get github.com/quietpelican42/gitattributes
 ```
 
 The module has no dependencies outside the standard library. `go.mod` declares Go 1.25.

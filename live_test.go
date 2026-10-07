@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/__GH_OWNER__/gitattributes/internal/difftest"
+	"github.com/quietpelican42/gitattributes/internal/difftest"
 )
 
 // TestLiveDifferential compares the library with git check-attr on random

@@ -1,9 +1,9 @@
-module github.com/__GH_OWNER__/gitattributes/bench/incumbents
+module github.com/quietpelican42/gitattributes/bench/incumbents
 
 go 1.25.0
 
 require (
-	github.com/__GH_OWNER__/gitattributes v0.0.0
+	github.com/quietpelican42/gitattributes v0.0.0
 	github.com/git-lfs/git-lfs/v3 v3.8.0
 	github.com/go-git/go-git/v5 v5.19.2
 	github.com/go-git/go-git/v6 v6.0.0-alpha.5
@@ -28,4 +28,4 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
-replace github.com/__GH_OWNER__/gitattributes => ../..
+replace github.com/quietpelican42/gitattributes => ../..

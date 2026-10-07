@@ -3,7 +3,7 @@ package gitattributes_test
 import (
 	"fmt"
 
-	"github.com/__GH_OWNER__/gitattributes"
+	"github.com/quietpelican42/gitattributes"
 )
 
 func Example() {

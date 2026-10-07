@@ -22,7 +22,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/__GH_OWNER__/gitattributes/internal/difftest"
+	"github.com/quietpelican42/gitattributes/internal/difftest"
 )
 
 type entry struct {

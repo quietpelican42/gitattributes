@@ -29,7 +29,7 @@ import (
 	gg5 "github.com/go-git/go-git/v5/plumbing/format/gitattributes"
 	gg6 "github.com/go-git/go-git/v6/plumbing/format/gitattributes"
 
-	ours "github.com/__GH_OWNER__/gitattributes"
+	ours "github.com/quietpelican42/gitattributes"
 )
 
 type triple struct {

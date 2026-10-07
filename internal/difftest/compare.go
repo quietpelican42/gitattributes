@@ -3,7 +3,7 @@ package difftest
 import (
 	"fmt"
 
-	"github.com/__GH_OWNER__/gitattributes"
+	"github.com/quietpelican42/gitattributes"
 )
 
 // Rules builds the library's view of c.
